@@ -1,0 +1,14 @@
+.form-control{
+    opacity: 10;
+   
+}
+.form-group{
+    opacity: 1;
+}
+.reg{
+    background-image: url("/public/air_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:-100px;
+    margin-right: -80px;
+}

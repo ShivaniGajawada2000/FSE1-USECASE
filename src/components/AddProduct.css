@@ -1,0 +1,14 @@
+.containeradd{
+    background-color: #eccee1;
+
+   
+background-image: url("/public/airpods.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+
+
+}
+.formc{
+    background-color: gray;
+    opacity: 0.6;
+}

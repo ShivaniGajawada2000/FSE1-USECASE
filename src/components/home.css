@@ -1,0 +1,5 @@
+.home-bg{
+    background-image: url("/public/homeban.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
